@@ -1,0 +1,31 @@
+{
+  "name": "assignment01",
+  "version": "1.0.0",
+ "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diana-mohammadi/101481507_COMP3123_Assignment1.gi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diana-mohammadi/101481507_COMP3123_Assignment1.gi/issues"
+  },
+  "homepage": "https://github.com/diana-mohammadi/101481507_COMP3123_Assignment1.gi#readme",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1",
+    "mongoose": "^8.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
